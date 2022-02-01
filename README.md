@@ -4,8 +4,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -21,7 +19,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>목차</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -48,7 +46,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 서론
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -205,12 +203,12 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/kwon99/WIL.svg?style=for-the-badge
 [contributors-url]: https://github.com/kwon99/WIL/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/kwon99/WIL.svg?style=for-the-badge
 [forks-url]: https://github.com/kwon99/WIL/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/kwon99/WIL.svg?style=for-the-badge
 [stars-url]: https://github.com/kwon99/WIL/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/kwon99/WIL.svg?style=for-the-badge
 [issues-url]: https://github.com/kwon99/WIL/issues
 [product-screenshot]: images/screenshot.png
