@@ -24,7 +24,7 @@ Terminal은 개행이 이루어질 때까지 사용자 입력을 전송하지 �
 
 * read 함수는 *__개행을 기준으로 받아들이는 것이 아니기 때문에__* sendline을 사용하지 않아도 입력값만큼 받습니다.
 * gets, scanf 함수는 *__개행 혹은 공백을 기준으로 받아들이기 때문에__* sendline을 사용해야 입력값만큼 보낼 수 있습니다.
-* 
+
 ## Reference
 
 * [Dreamhack](https://dreamhack.io/forum/qna/1126)

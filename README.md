@@ -54,7 +54,7 @@
 ## Security
 
 ### Pwnable
-
+* [send와 sendline의 차이점](https://github.com/kwon99/WIL/blob/main/Security/Pwnable/sendline.md)
 ### Reversing
 
 
