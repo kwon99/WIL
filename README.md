@@ -43,7 +43,7 @@
 배운 내용을 정리하고, 미래의 누군가 혹은 나에게 도움이 되길 바라며 작성합니다. 
 
 
-reference: 
+__reference__ 
 * [g0pher-WIL](https://github.com/g0pher98/WIL)
 * [how2heap](https://github.com/shellphish/how2heap)
 
