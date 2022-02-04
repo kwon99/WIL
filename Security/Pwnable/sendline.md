@@ -27,7 +27,7 @@ Terminal은 개행이 이루어질 때까지 사용자 입력을 전송하지 �
 
 ## Reference
 
-* [Dreamhack](https://dreamhack.io/forum/qna/1126)
-* [read()](https://badayak.com/4486)
-* [gets()](https://blockdmask.tistory.com/343)
-* [scanf()](https://clgnsdl94.tistory.com/m/24)
+* [Dreamhack - send와 sendline](https://dreamhack.io/forum/qna/1126)
+* [read 함수의 정의와 사용법](https://badayak.com/4486)
+* [gets 함수의 정의와 사용법](https://blockdmask.tistory.com/343)
+* [scanf 함수의 정의와 사용법](https://clgnsdl94.tistory.com/m/24)
