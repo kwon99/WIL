@@ -55,6 +55,8 @@
 
 ### Pwnable
 * [send와 sendline의 차이점](https://github.com/kwon99/WIL/blob/main/Security/Pwnable/sendline.md)
+* [libc 파일이 제공되지 않았을 때](https://github.com/kwon99/WIL/blob/main/Security/Pwnable/libc-database.md)
+
 ### Reversing
 
 
