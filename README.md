@@ -56,14 +56,17 @@
 ## WHAT
 
 ### C
-
+* [컴파일러 이론](https://github.com/kwon99/WIL/blob/main/WHAT/C/compile.md)
 
 <!-- WHY -->
 ## WHY
 
+### C
+* [scanf_s를 쓰는 이유](https://github.com/kwon99/WIL/blob/main/WHY/C/scanf_s.md)
+
 ### Pwnable
-* [send와 sendline의 차이점](https://github.com/kwon99/WIL/blob/main/Security/Pwnable/sendline.md)
-* [libc 파일이 제공되지 않았을 때](https://github.com/kwon99/WIL/blob/main/Security/Pwnable/libc-database.md)
+* [send와 sendline의 차이점](https://github.com/kwon99/WIL/blob/main/WHY/Pwnable/sendline.md)
+* [libc 파일이 제공되지 않았을 때](https://github.com/kwon99/WIL/blob/main/WHY/Pwnable/libc-database.md)
 
 ### Reversing
 
