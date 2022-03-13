@@ -25,14 +25,17 @@
       <a href="#들어가며">들어가며</a>
     </li>
     <li>
-      <a href="#Security">Security</a>
+      <a href="#WHAT">WHAT</a>
+      <ul>
+        <li><a href="#C">C</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#WHY">WHY</a>
       <ul>
         <li><a href="#Pwnable">Pwnable</a></li>
         <li><a href="#Reversing">Reversing</a></li>
       </ul>
-    </li>
-    <li>
-      <a href="#Programming">Programming</a>
     </li>
   </ol>
 </details>
@@ -49,8 +52,13 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- WHAT -->
+## WHAT
 
-<!-- SECURITY -->
+### C
+
+
+<!-- WHY -->
 ## WHY
 
 ### Pwnable
@@ -62,14 +70,6 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<!-- Programming -->
-## Programming
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
 ## Contact
 
 * [Instagram](https://www.instagram.com/kwonyounghun_0312)
