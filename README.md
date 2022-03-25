@@ -63,7 +63,7 @@
 
 ### C
 * [scanf_s를 쓰는 이유](https://github.com/kwon99/WIL/blob/main/WHY/C/scanf_s.md)
-
+* [srand가 loop 안에 있으면 생기는 현상](https://github.com/kwon99/WIL/blob/main/WHY/C/srand_in_loop.md)
 ### Pwnable
 * [send와 sendline의 차이점](https://github.com/kwon99/WIL/blob/main/WHY/Pwnable/sendline.md)
 * [libc 파일이 제공되지 않았을 때](https://github.com/kwon99/WIL/blob/main/WHY/Pwnable/libc-database.md)

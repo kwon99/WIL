@@ -7,6 +7,7 @@ void srand(unsigned int seed);
 ## Incident
 *__srand(time(NULL))이 loop 내부에 있으면 같은 값이 반복적으로 출력되는 현상__*
 
+![code](/image/srand_in_loop/code.png)
 ![same](/image/srand_in_loop/same.png)
 
 ## Report
